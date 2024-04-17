@@ -5,3 +5,4 @@ com\imouahrani\bankTransactionsQueries\model\BankTransaction$BankTransactionBuil
 com\imouahrani\bankTransactionsQueries\model\BankBalance.class
 com\imouahrani\bankTransactionsQueries\config\StreamConfiguration.class
 com\imouahrani\bankTransactionsQueries\model\BankTransaction.class
+com\imouahrani\bankTransactionsQueries\BankBalanceApp.class
