@@ -1,3 +1,4 @@
+com\imouahrani\bankTransactionsQueries\topology\BankBalanceTopology.class
 com\imouahrani\bankTransactionsQueries\model\BankTransactionState.class
 com\imouahrani\bankTransactionsQueries\model\JsonSerde.class
 com\imouahrani\bankTransactionsQueries\model\BankTransaction$BankTransactionBuilder.class
