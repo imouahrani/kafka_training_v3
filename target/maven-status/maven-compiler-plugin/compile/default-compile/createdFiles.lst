@@ -1,2 +1,5 @@
+com\imouahrani\bankTransactionsQueries\model\BankTransaction$BankTransactionBuilder.class
 com\imouahrani\bankTransactionsQueries\config\StreamConfiguration.class
+com\imouahrani\bankTransactionsQueries\model\BankTransaction.class
+com\imouahrani\bankTransactionsQueries\model\BankTransactionState.class
 com\imouahrani\bankTransactionsQueries\model\JsonSerde.class
