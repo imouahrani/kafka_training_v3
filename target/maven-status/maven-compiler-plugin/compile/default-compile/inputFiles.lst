@@ -1,4 +1,5 @@
 C:\MyProjects\kafka-streams-v3\src\main\java\com\imouahrani\bankTransactionsQueries\model\BankTransaction.java
 C:\MyProjects\kafka-streams-v3\src\main\java\com\imouahrani\bankTransactionsQueries\model\BankTransactionState.java
 C:\MyProjects\kafka-streams-v3\src\main\java\com\imouahrani\bankTransactionsQueries\config\StreamConfiguration.java
+C:\MyProjects\kafka-streams-v3\src\main\java\com\imouahrani\bankTransactionsQueries\model\BankBalance.java
 C:\MyProjects\kafka-streams-v3\src\main\java\com\imouahrani\bankTransactionsQueries\model\JsonSerde.java
