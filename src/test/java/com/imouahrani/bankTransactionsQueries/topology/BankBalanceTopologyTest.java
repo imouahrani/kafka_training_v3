@@ -1,2 +1,4 @@
-package com.imouahrani.bankTransactionsQueries.topology;public class BankBalanceTopologyTest {
+package com.imouahrani.bankTransactionsQueries.topology;
+
+public class BankBalanceTopologyTest {
 }

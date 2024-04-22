@@ -1,8 +1,11 @@
 com\imouahrani\bankTransactionsQueries\topology\BankBalanceTopology.class
+com\imouahrani\bankTransactionsQueries\topology\BankBalanceApp.class
 com\imouahrani\bankTransactionsQueries\model\BankTransactionState.class
 com\imouahrani\bankTransactionsQueries\model\JsonSerde.class
 com\imouahrani\bankTransactionsQueries\model\BankTransaction$BankTransactionBuilder.class
 com\imouahrani\bankTransactionsQueries\model\BankBalance.class
 com\imouahrani\bankTransactionsQueries\config\StreamConfiguration.class
+com\imouahrani\bankTransactionsQueries\controller\BankBalanceController.class
 com\imouahrani\bankTransactionsQueries\model\BankTransaction.class
-com\imouahrani\bankTransactionsQueries\BankBalanceApp.class
+com\imouahrani\bankTransactionsQueries\service\BankBalanceService.class
+com\imouahrani\bankTransactionsQueries\model\BankBalance$BankBalanceBuilder.class
