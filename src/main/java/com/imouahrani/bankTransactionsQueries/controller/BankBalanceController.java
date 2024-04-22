@@ -10,14 +10,14 @@ import org.springframework.web.bind.annotation.*;
 @CrossOrigin("*")
 @RequestMapping("/bank-balance")
 public class BankBalanceController {
-    private final BankBalanceService bankBalanceService;
+    private  BankBalanceService bankBalanceService;
 
     @Autowired
     public BankBalanceController(BankBalanceService bankBalanceService) {
         this.bankBalanceService = bankBalanceService;
     }
     @GetMapping(value = "/{bankBalanceId}", produces = "application/json")
-    public ResponseEntity<BankBalance> getBankBalanceById(@PathVariable("bankBalanceId") String bankBalanceId){
+    public ResponseEntity<BankBalance> getBankBalanceById(@PathVariable("bankBalanceId") Long bankBalanceId){
         return ResponseEntity.ok(bankBalanceService.getBankBalanceById(bankBalanceId));
 
     }
